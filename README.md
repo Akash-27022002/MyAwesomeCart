@@ -14,14 +14,15 @@ Learn Django from code with harry Youtube
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenShots/Screenshot(7).png)
-![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenShots/Screenshot(8).png)
-![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenShots/Screenshot(9).png)
+![App Screenshot](https://github.com/Akash-27022002/MyAwesomeCart/blob/main/screenShots/Screenshot%20(7).png)
+![App Screenshot](https://github.com/Akash-27022002/MyAwesomeCart/blob/main/screenShots/Screenshot%20(8).png)
+![App Screenshot](https://github.com/Akash-27022002/MyAwesomeCart/blob/main/screenShots/Screenshot%20(9).png)
 ![App Screenshot](https://github.com/Akash-27022002/MyAwesomeCart/blob/main/screenShots/Screenshot%20(10).png)
-![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenShots/Screenshot(11).png)
-![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenShots/Screenshot(12).png)
-![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenShots/Screenshot(13).png)
-![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenShots/Screenshot(14).png)
+![App Screenshot](https://github.com/Akash-27022002/MyAwesomeCart/blob/main/screenShots/Screenshot%20(11).png)
+![App Screenshot](https://github.com/Akash-27022002/MyAwesomeCart/blob/main/screenShots/Screenshot%20(12).png)
+![App Screenshot](https://github.com/Akash-27022002/MyAwesomeCart/blob/main/screenShots/Screenshot%20(13).png)
+![App Screenshot](https://github.com/Akash-27022002/MyAwesomeCart/blob/main/screenShots/Screenshot%20(14).png)
+![App Screenshot](https://github.com/Akash-27022002/MyAwesomeCart/blob/main/screenShots/Screenshot%20(15).png)
 
 
 
