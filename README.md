@@ -14,11 +14,16 @@ Learn Django from code with harry Youtube
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenshots/Screenshot_20210805-103037837.jpg)
-![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenshots/Screenshot_20210805-104041791.jpg)
-![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenshots/Screenshot_20210805-104102813.jpg)
-![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenshots/Screenshot_20210805-104127676.jpg)
-![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenshots/Screenshot_20210805-104127676.jpg)
-![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenshots/Screenshot_20210805-104127676.jpg)
-![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenshots/Screenshot_20210805-104127676.jpg)
-![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenshots/Screenshot_20210805-104127676.jpg)
+![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenShots/ Screenshot (7).png)
+![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenShots/ Screenshot (8).png)
+![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenShots/ Screenshot (9).png)
+![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenShots/ Screenshot (10).png
+![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenShots/ Screenshot (11).png)
+![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenShots/ Screenshot (12).png)
+![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenShots/ Screenshot (13).png)
+![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenShots/ Screenshot (14).png)
+
+
+
+           
+          
