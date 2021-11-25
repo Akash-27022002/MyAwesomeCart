@@ -14,3 +14,11 @@ Learn Django from code with harry Youtube
 
 ## Screenshots
 
+![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenshots/Screenshot_20210805-103037837.jpg)
+![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenshots/Screenshot_20210805-104041791.jpg)
+![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenshots/Screenshot_20210805-104102813.jpg)
+![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenshots/Screenshot_20210805-104127676.jpg)
+![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenshots/Screenshot_20210805-104127676.jpg)
+![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenshots/Screenshot_20210805-104127676.jpg)
+![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenshots/Screenshot_20210805-104127676.jpg)
+![App Screenshot](https://github.com/Akash-27022002/newshub/blob/main/screenshots/Screenshot_20210805-104127676.jpg)
